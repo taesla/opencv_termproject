@@ -1,0 +1,7 @@
+classes= 10
+train  = /home/mds/darknet/data/train.txt
+valid  = /home/mds/darknet/data/val.txt
+names = data/deeplearning.names
+backup = backup/
+eval=coco
+

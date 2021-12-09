@@ -1,0 +1,4 @@
+<launch>
+   <node name="stop_line" pkg="usb_cam" type="stop_line.py" output="screen">
+   </node>
+</launch>

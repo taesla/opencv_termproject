@@ -1,0 +1,20 @@
+yolo_model:
+
+  config_file:
+    name: delivery_traffic_2.cfg
+  weight_file:
+    name: delivery_traffic_final_2.weights
+  threshold:
+    value: 0.7
+  detection_classes:
+    names:
+      - A1
+      - A2
+      - A3
+      - B1
+      - B2
+      - B3
+      - Green
+      - Left
+      - Red
+      - StraightLeft

@@ -1,6 +1,3 @@
-# autonomous-vehicle-MDS
-``2020-07-09``
-
 
 ## Commands
 ### reviced Commands for versionE - 1
